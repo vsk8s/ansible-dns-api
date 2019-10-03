@@ -32,3 +32,6 @@
     name: dns-api
     state: started
     enabled: True
+
+- name: Flush handlers
+  meta: flush_handlers
