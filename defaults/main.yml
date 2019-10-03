@@ -5,3 +5,4 @@ dns_api_password: changeme
 dns_api_isg_group: changeme
 dns_api_key_file: /etc/dns-api.d/key.pem
 dns_api_cert_file: /etc/dns-api.d/cert.pem
+dns_api_zones: []
